@@ -1,0 +1,10 @@
+{
+  "country":
+    {
+      "belarus": {"population": 9485000, "area": 207595},
+      "russia":  {"population": 146748590, "area": 17125191},
+      "ukraine": {"population": 48457102, "area": 603549},
+      "germany": {"population": 81292400, "area":  357385},
+      "usa": {"population": 328915700, "area":  9519431}
+    }
+}
